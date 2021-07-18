@@ -1,3 +1,4 @@
+```
 ├── app.tsx
 ├── assets // 静态资源，会被打包优化
 │   ├── favicon.svg
@@ -31,3 +32,4 @@
 │   └── reset.less
 └── utils // 工具方法
 └── index.ts
+```
